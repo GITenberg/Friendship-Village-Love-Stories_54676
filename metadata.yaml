@@ -1,0 +1,34 @@
+_repo: Friendship-Village-Love-Stories_54676
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gale, Zona
+    aliases:
+    - Breese, William Lleywelyn, Mrs.
+    - Breese, William Llywelyn, Mrs.
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '3531'
+    url: http://www.gutenberg.org/2009/agents/3531
+    wikipedia: http://en.wikipedia.org/wiki/Zona_Gale
+description: ''
+gutenberg_issued: '2017-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcsh 'Romance fiction, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Open arms -- Inside June -- Miggy -- Splendour Town -- Different
+  -- The fond forenoon -- Afraid -- The Java entertainment -- The cold shoulder --
+  Evening dress -- Undern -- The way the world is -- Householdry -- Postmarks -- Peter
+  -- The New Village -- Adoption -- At Peter's house -- The custodian.
+title: Friendship Village Love Stories
+url: http://www.gutenberg.org/ebooks/54676
